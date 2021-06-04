@@ -6,7 +6,7 @@ The dataset was made of 8,142 tweets all of which had clean location data. The s
 
 To conclude we developed a visual of the swing states, and what the data appears to predict is the sentiment of each swing state. The only toss up our analyses found was North Carolina. After elections completed it appears that Trump barely won by 1.34%
 
-Teammate: 
+Teammates: 
 [India Lindsay](https://www.linkedin.com/in/india-lindsay/), 
 [Bhavna Kaparaju](https://www.linkedin.com/in/bhavna-kaparaju/), 
 [Callie Gilmore](https://www.linkedin.com/in/calliegilmore/), 
